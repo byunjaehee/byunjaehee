@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @byunjaehee
+- 👋 Hi, I’m @byunjaehee!
 - 👀 I’m interested in develop Game 💞️
 - 🌱 I’m currently learning Game!💞️
 
