@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @byunjaehee
-- 👀 I’m interested in develop Game 💞️
-- 🌱 I’m currently learning Game!💞️
+- 👀 I’m interested in developing Game 💞️
+- 🌱 I’m currently learning making Game!💞️
 
 <!--- 
 byunjaehee/byunjaehee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
